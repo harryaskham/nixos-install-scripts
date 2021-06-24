@@ -66,7 +66,7 @@ echo '
 
   users.users.root.openssh.authorizedKeys.keys = [
     # Replace this by your SSH pubkey!
-    "ssh-rsa AAAAAAAAAAA..."
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC54Ch5FITch2ElHklBxGxkUDWFbXRz5yE/DK4r2fUnrcfebnI9mxsEO+uo0/sy0hRODmvoPy8/HHHzIPkPIs5e87btVTrtwGbhTNdK3cOxmSKjum5Vf6DdcupIu0bEm/nZORmcpc5nfXM2sy66ru3mzOnop+O59tPngDfq62/Vq5hT9of1VU2DJH+WV8jWVfb4xkxaPqBvoxfncXN10GVZ2nym5kOExpljSL/x41fNkmTAlYrc3VqdpJInOvDLkzFM5PtjfKkTCIXgrESVR3zKPU//XzlViwdqynhKMDD18mIFogsAhut7exsTF2hGPQpsyMiHjHoR9Cex4/R7vFoJ harryaskham@gmail.com"
   ];
 }
 ' >> /mnt/etc/nixos/configuration.nix
